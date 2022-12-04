@@ -1,0 +1,6 @@
+{
+  "mongoURI": "enter your mongo uri",
+  "jwtSecret": "asd",
+  "email": "your email",
+  "pass": "note you have to enable two step verification and then create app password"
+}

@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://Anjum123:Anjum123@devconnector-f5qte.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mySecret",
+    "email": "clonetube728@gmail.com",
+    "pass": "DKDBJTYAkhjaoe$%^*#@19283423"
+  }
+  
